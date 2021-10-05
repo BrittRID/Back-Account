@@ -1,0 +1,16 @@
+C:\Users\britt\OneDrive\Desktop\repos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\net5.0\BankEncapsulationExercise.exe
+C:\Users\britt\OneDrive\Desktop\repos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\net5.0\BankEncapsulationExercise.deps.json
+C:\Users\britt\OneDrive\Desktop\repos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\net5.0\BankEncapsulationExercise.runtimeconfig.json
+C:\Users\britt\OneDrive\Desktop\repos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\net5.0\BankEncapsulationExercise.runtimeconfig.dev.json
+C:\Users\britt\OneDrive\Desktop\repos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\net5.0\BankEncapsulationExercise.dll
+C:\Users\britt\OneDrive\Desktop\repos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\net5.0\ref\BankEncapsulationExercise.dll
+C:\Users\britt\OneDrive\Desktop\repos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\net5.0\BankEncapsulationExercise.pdb
+C:\Users\britt\OneDrive\Desktop\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\net5.0\BankEncapsulationExercise.csproj.AssemblyReference.cache
+C:\Users\britt\OneDrive\Desktop\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\net5.0\BankEncapsulationExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\britt\OneDrive\Desktop\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\net5.0\BankEncapsulationExercise.AssemblyInfoInputs.cache
+C:\Users\britt\OneDrive\Desktop\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\net5.0\BankEncapsulationExercise.AssemblyInfo.cs
+C:\Users\britt\OneDrive\Desktop\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\net5.0\BankEncapsulationExercise.csproj.CoreCompileInputs.cache
+C:\Users\britt\OneDrive\Desktop\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\net5.0\BankEncapsulationExercise.dll
+C:\Users\britt\OneDrive\Desktop\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\net5.0\ref\BankEncapsulationExercise.dll
+C:\Users\britt\OneDrive\Desktop\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\net5.0\BankEncapsulationExercise.pdb
+C:\Users\britt\OneDrive\Desktop\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\net5.0\BankEncapsulationExercise.genruntimeconfig.cache
